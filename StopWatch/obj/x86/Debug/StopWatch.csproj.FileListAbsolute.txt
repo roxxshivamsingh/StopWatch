@@ -1,0 +1,7 @@
+C:\Users\roxxshivamsingh\Documents\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\roxxshivamsingh\Documents\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\roxxshivamsingh\Documents\StopWatch\obj\x86\Debug\StopWatch.Form1.resources
+C:\Users\roxxshivamsingh\Documents\StopWatch\obj\x86\Debug\StopWatch.Properties.Resources.resources
+C:\Users\roxxshivamsingh\Documents\StopWatch\obj\x86\Debug\StopWatch.csproj.GenerateResource.Cache
+C:\Users\roxxshivamsingh\Documents\StopWatch\obj\x86\Debug\StopWatch.exe
+C:\Users\roxxshivamsingh\Documents\StopWatch\obj\x86\Debug\StopWatch.pdb
